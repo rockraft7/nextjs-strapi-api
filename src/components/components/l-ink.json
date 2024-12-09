@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_components_l_inks",
+  "info": {
+    "displayName": "LInk",
+    "icon": "brush",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "isExternal": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}
